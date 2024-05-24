@@ -1,0 +1,3 @@
+C:/Users/Ramsés/Desktop/animal4/cmake-build-debug-coverage/CMakeFiles/animal4.dir
+C:/Users/Ramsés/Desktop/animal4/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
+C:/Users/Ramsés/Desktop/animal4/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir

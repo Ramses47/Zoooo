@@ -1,0 +1,21 @@
+# ninja log v5
+3	559	7366426370751775	CMakeFiles/animal4.dir/main.cpp.obj	dec5da6d295cc6fb
+30	631	7366426371495465	CMakeFiles/animal4.dir/Camaron.cpp.obj	715511eaf8b390ca
+34	605	7366426371225023	CMakeFiles/animal4.dir/Pulpo.cpp.obj	bf7095d7b1f00f53
+18	618	7366426371360292	CMakeFiles/animal4.dir/Animal.cpp.obj	4e3e413e54c57a6a
+26	574	7366426370906939	CMakeFiles/animal4.dir/Tiburon.cpp.obj	841deb08910b4c87
+22	604	7366426371209989	CMakeFiles/animal4.dir/Gato.cpp.obj	4b9742412ebd4b21
+14	568	7366426370856941	CMakeFiles/animal4.dir/Lobo.cpp.obj	663cfc18177dd8b1
+11	629	7366426371475462	CMakeFiles/animal4.dir/Capibara.cpp.obj	2020a616b6dbf757
+7	587	7366426371034805	CMakeFiles/animal4.dir/Perro.cpp.obj	ab2b6f3c7de165f7
+632	730	7366426372443262	animal4.exe	d5b908a8a9bc0654
+3	658	7366429434877594	CMakeFiles/animal4.dir/main.cpp.obj	dec5da6d295cc6fb
+7	684	7366429435143264	CMakeFiles/animal4.dir/Perro.cpp.obj	ab2b6f3c7de165f7
+14	690	7366429435193269	CMakeFiles/animal4.dir/Lobo.cpp.obj	663cfc18177dd8b1
+26	690	7366429435193269	CMakeFiles/animal4.dir/Pulpo.cpp.obj	bf7095d7b1f00f53
+18	698	7366429435278410	CMakeFiles/animal4.dir/Animal.cpp.obj	4e3e413e54c57a6a
+11	709	7366429435392941	CMakeFiles/animal4.dir/Gato.cpp.obj	4b9742412ebd4b21
+22	720	7366429435498125	CMakeFiles/animal4.dir/Capibara.cpp.obj	2020a616b6dbf757
+30	730	7366429435608907	CMakeFiles/animal4.dir/Camaron.cpp.obj	715511eaf8b390ca
+35	742	7366429435729567	CMakeFiles/animal4.dir/Tiburon.cpp.obj	841deb08910b4c87
+742	843	7366429436696498	animal4.exe	d5b908a8a9bc0654
